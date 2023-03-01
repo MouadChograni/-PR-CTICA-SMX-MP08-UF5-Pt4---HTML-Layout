@@ -1,0 +1,22 @@
+
+
+  .robotweb {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+  .imagenes img {
+    display: block;
+    width: 60px;
+    padding-top: 20px;
+}
+
+.padding {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    height: 35vh;
+    display: flex;
+}
